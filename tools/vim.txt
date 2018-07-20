@@ -293,9 +293,9 @@ clast               display the last error
 gf                  edit the file whose name is under or after the cursor
 gd                  when the cursor is on a local variable or function, jump to its declaration
 ''                  return to the line where the cursor was before the latest jump
-gi                  return to insert mode where you inserted text the last time
-CTRL-o              move to previous position you were at
-CTRL-i              move to more recent position you were at
+gi     ttst         return to insert mode where you inserted text the last time
+CTRL-o   ttst       move to previous position you were at
+CTRL-i   ttst       move to more recent position you were at
 
 
 ##############################################################################
